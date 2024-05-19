@@ -1,0 +1,4 @@
+win32_element_info.HwndElementInfo - '인증서 선택창', #32770 / 프로세스: 7528
+win32_element_info.HwndElementInfo - '예비군 홈페이지 로그인 - Chrome', Chrome_WidgetWin_1 / 프로세스: 10548
+win32_element_info.HwndElementInfo - 'pywinauto', Chrome_WidgetWin_1 / 프로세스: 25696
+win32_element_info.HwndElementInfo - '계산기', ApplicationFrameWindow / 프로세스: 9540
